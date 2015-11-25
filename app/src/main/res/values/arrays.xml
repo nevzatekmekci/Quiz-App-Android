@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item >"Sinekli Bakkal" Romanının Yazarı Aşağıdakilerden Hangisidir</item>
+        <item >Aşağıda Verilen İlk Çağ Uygarlıklarından Hangisi Yazıyı İcat Etmiştir?</item>
+        <item >Tsunami Felaketinde En Fazla Zarar Gören Güney Asya Ülkesi</item>
+        <item >2003 Yılında Euro Vizyon Şarkı Yarışmasında Ülkemizi Temsil Eden Ve Yarışmada Birinci Gelen Sanatçımız Kimdir?</item>
+        <item >Mustafa Kemal Atatürk’ün Nüfusa Kayıtlı Olduğu İl Hangisidir?</item>
+        <item >Aşağıdakilerden Hangisi Dünya Sağlık Örgütünün Kısaltılmış İsmidir?</item>
+        <item >Bir Gün Kaç Saniyedir?</item>
+        <item >Üç Büyük Dince Kutsal Sayılan Şehir Hangisidir?</item>
+        <item >Hangi İlimizde Demiryolu Yoktur?</item>
+        <item >Bir Sebepten Dolayı Tek Kulağına Küpe Takan Osmanlı Padişahı Kimdir?</item>
+    </string-array>
+    <string-array name="answers">
+        <item >Reşat Nuri Güntekin</item>
+        <item >Halide Edip Adıvar</item>
+        <item >Ziya Gökalp</item>
+        <item >Ömer Seyfettin</item>
+
+        <item >Hititler</item>
+        <item >Elamlar</item>
+        <item >Sümerler</item>
+        <item >Urartular</item>
+
+        <item >Endonezya</item>
+        <item >Srilanka</item>
+        <item >Tayland</item>
+        <item >Hindistan</item>
+
+        <item >Grup Athena</item>
+        <item >Sertap Erener</item>
+        <item >Ajda Pekkan</item>
+        <item >Şebnem Paker</item>
+
+        <item >Bursa</item>
+        <item >Ankara</item>
+        <item >İstanbul</item>
+        <item >Gaziantep</item>
+
+        <item >UHW</item>
+        <item >UNICEF</item>
+        <item >WHO</item>
+        <item >NATO</item>
+
+        <item >86000</item>
+        <item >88600</item>
+        <item >86400</item>
+        <item >84800</item>
+
+        <item >Mekke</item>
+        <item >Kudüs</item>
+        <item >Roma</item>
+        <item >İstanbul</item>
+
+        <item >Batman</item>
+        <item >Aydın</item>
+        <item >Kütahya</item>
+        <item >Muğla</item>
+
+        <item >Kanuni Sultan Süleyman</item>
+        <item >Yavuz Sultan Selim</item>
+        <item >Orhan Bey</item>
+        <item >Fatih Sultan Selim</item>
+    </string-array>
+
+    <string-array name="trueAnswers">
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>3</item>
+        <item>3</item>
+        <item>2</item>
+        <item>4</item>
+        <item>2</item>
+    </string-array>
+
+
+</resources>
+
